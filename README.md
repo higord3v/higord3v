@@ -16,14 +16,12 @@
 
 ### Bem-vindo(a)!  
 Olá, me chamo Higor. Estou em busca de uma oportunidade para a àrea de desenvolvimento de
-software. Adoro aprender e estou sempre à procura de me aprimorar mais. 
+software.
 Tenho experiência profissional trabalhando com as tecnologias HTML5, CSS3, JavaScript, Node.js,
-Express.js, Sequelize ORM, PostgreSQL, React.js, Material-UI, Styled-Components. Também tenho
-conhecimento em Java 11+, SpringBoot e Angular. 
-Também busco me aprimorar em competências como comunicação, trabalho em equipe e gestão de
-prazos nos projetos aos quais atuo. 
-Por último, tenho conhecimento em inglês técnico com bom reading e listening e buscando me
-aperfeiçoar mais.  
+Express.js, Sequelize ORM, PostgreSQL, React.js, Material-UI, Styled-Components. 
+Também tenho
+conhecimento em Java 11+ e SpringBoot.  
+Por último, tenho conhecimento em inglês técnico com bom reading e listening.
   
 
 <br/>  
@@ -33,12 +31,10 @@ aperfeiçoar mais.
 <table><tr><td valign="top" width="50%">
 
 - 🔭 Atualmente em busca de oportunidades
-  
 
-- 🌱Estudante de Análise e Desenvolvimento de Sistemas  
-  
+- 🌱Estudante autodidata  
 
-- 💭  Tenho interesse em Java, Angular, Node.js e React.js   
+- 💭  Tenho interesse em Node.js, React.js e Java   
 
 
 
