@@ -30,8 +30,6 @@ Por último, tenho conhecimento em inglês técnico com bom reading e listening.
 ## Resumo  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 Atualmente em busca de oportunidades
-
 - 🌱Estudante autodidata  
 
 - 💭  Tenho interesse em Node.js, React.js e Java   
